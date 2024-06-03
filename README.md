@@ -15,3 +15,7 @@ To run the TransEase application on your local machine, follow these steps:
 1. **Clone the Repository**: Clone the TransEase repository to your local machine.
 
 2. **Install Dependencies**: Ensure that you have all the required dependencies installed. You can install them using the following command: `pip install -r requirements.txt`
+
+3. **Navigate to the Directory**: Use the `cd` command to navigate to the directory where the Streamlit file is located.
+
+4. **Run the Streamlit App**: Execute the following command to run the Streamlit app : `streamlit run app.py`
